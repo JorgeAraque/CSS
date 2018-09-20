@@ -1,0 +1,19 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    background-color: aqua;
+    height: 120px;
+}
+span{
+    background-color: darkgreen;
+    height: 500px;    
+    display: inline-block;
+    border-top: 4px solid black;
+    border-right: 4px dashed palevioletred;
+    border-bottom: 4px dotted blue;
+}
+
+p{
+    background-color: rgb(13, 241, 13);
+}
