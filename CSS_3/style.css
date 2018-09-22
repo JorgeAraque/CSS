@@ -16,7 +16,16 @@ li ul {
 li:hover ul{
     display: block;
 }
+/* Descendientes */
+li a{
+    color:red;
+}
+
+.list .list-item{
+    color: brown;
+}
 /* Selectores adyacentes */
+
 
 /* Hijos Directos */
 
