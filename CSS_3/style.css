@@ -43,15 +43,41 @@ li a{
     margin-top: -16px;
 }
 
-.title-1 + .subtitle{
-    color: var(--color-orange);
-}
 
 
 /* Hijos Directos */
 
 /* Hermano siguiente */
 
+.title-1 + .subtitle{
+    color: var(--color-orange);
+}
+
 /* Selectores de atributos */
 
+a[href="http://google.com"]{
+    background-color: blue;
+    color: white;
+}
+
+a[href]{
+    border: 2px solid yellow;
+}
+[type="email"]{
+    border: 1px dashed purple;
+}
+[type="submit"]{
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1.2px 1.2px black;
+}
+
+.enable{
+    display: none;
+}
+.disable{
+    
+}
 /* nth of types */
