@@ -1,0 +1,22 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeAraque/CSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeAraque/CSS/issues"
+  },
+  "homepage": "https://github.com/JorgeAraque/CSS#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
