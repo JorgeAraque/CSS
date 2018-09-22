@@ -1,0 +1,18 @@
+:root{
+    --color-lis:red;
+}
+li{
+border: 1px solid var(--color-lis);    
+}
+
+#NoCampeones{
+    background-color: yellow;
+}
+.campeones{
+    color: red;
+}
+.campeones{
+    color: red;
+    text-decoration: line-through;
+    
+}

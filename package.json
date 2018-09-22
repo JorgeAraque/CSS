@@ -16,7 +16,8 @@
     "url": "https://github.com/JorgeAraque/CSS/issues"
   },
   "homepage": "https://github.com/JorgeAraque/CSS#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "live-server": "^1.2.0"
   }
 }
