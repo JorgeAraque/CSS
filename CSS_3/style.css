@@ -5,7 +5,17 @@
 /* id */
 
 /* Estrella o universal */
+*{
+    border: 1px solid gray;
+}
+li ul {
+    color: red;
+    display: none;
 
+}
+li:hover ul{
+    display: block;
+}
 /* Selectores adyacentes */
 
 /* Hijos Directos */
